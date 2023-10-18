@@ -1,5 +1,5 @@
 jupyter
-scrapy
 pandas
-
+scrapy
+selenium
 

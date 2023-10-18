@@ -1,7 +1,7 @@
-# RGI 2023 - LinkedIn Scrapping
+# RGI 2023 - Web Scrapping
 
 
-
+This repository contains Python code samples for the web scrapping project of the INSA RGI 2023 course.
 
 
 ## Configure a Python environment
